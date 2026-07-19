@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environments
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Kubernetes
+*.kubeconfig
+
+# AWS
+.aws/
+
+# Terraform
+.terraform/
+
+# Misc
+*.bak
+*.tmp
